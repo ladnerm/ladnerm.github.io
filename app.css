@@ -1,0 +1,57 @@
+h1 {
+	font-size: 70px;
+	color : maroon;
+	font-family: Arial, Helvetica, sans-serif;
+	background: lightgrey;
+	text-align: center;
+  	border: 3px solid black;
+  	margin: auto;
+  	width: 50%;
+}
+
+
+.github-link {
+	font-size: 40;
+	color : maroon;
+	font-family: Arial, Helvetica, sans-serif;
+  	margin: auto;
+  	
+}
+
+.sidenav {
+  height: 100%;
+  width: 220px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: lightgrey;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border-right: 3px solid black;
+}
+
+.info {
+	margin-right: 20px;
+}
+
+.sidenav-text {
+	margin-left: 10px;
+}
+
+
+
+.main {
+	margin-left: 240px;
+	
+	color : maroon;
+
+}
+
+.contacts-info {
+	font-size: 50;
+}
+
+span {
+	padding-left: 5px;
+}
